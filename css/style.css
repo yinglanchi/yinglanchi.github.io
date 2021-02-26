@@ -23,7 +23,7 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-  color: hotpink;
+  color: #ffa500;
 }
 
 /* selected link */
