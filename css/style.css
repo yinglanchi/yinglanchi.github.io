@@ -265,11 +265,18 @@ ul.wmuSliderPagination {
 	color: #fefefe;
 	padding: 25px 0;
 }
+.main-container{ 
+    position: relative; 
+    width: 500px; 
+} 
 .main-container::after{ 
     content: ''; 
-    position: relative; 
+    position: absolute; 
     width: 10px; 
     background-color: #FFC0CB; 
+    top:0; 
+    bottom: 0; 
+    left: 50%; 
     margin-left: -3px; 
 } 
 /*Adjusting box of all content*/
