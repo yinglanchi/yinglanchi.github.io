@@ -62,7 +62,7 @@ body{
 }
 .top-menu ul li a{
 	font-size: 1.1em;
-	color: #fff;
+	color: #000000;
 	text-decoration: none;
 	text-transform: uppercase;
 	
@@ -147,13 +147,13 @@ nav a:focus {
 
 }
 .banner_center h1 {
-	color: #eee;
+	color: #00009a;
 	font-family: 'Arvo', serif;
 	text-transform: uppercase;
 	font-size: 2.4em;
 }
 .banner_center h2 {
-	color: #eee;
+	color: #00009a;
 	font-family: 'Arvo', serif;
 	text-transform: uppercase;
 	font-size: 2.4em;
