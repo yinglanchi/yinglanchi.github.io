@@ -55,18 +55,18 @@ body{
 }
 .top-menu ul li a{
 	font-size: 1.1em;
-	color: #000000;
+	color: #2e3e4e;
 	text-decoration: none;
 	text-transform: uppercase;
 	
 }
 .top-menu ul li a:hover {
-	color: #ef664d;
+	color: #ffa500;
 	
 	
 }
 .top-menu ul li a.active {
-	color: #ef664d;
+	color: #ffa500;
 	font-weight: 600;
 }
 nav a {
@@ -152,7 +152,7 @@ nav a:focus {
 }
 .banner_center h2 span
 {
-	color: #ef664d;
+	color: #2e3e4e;
 	font-weight: 900;
 }
 .wmuSliderPagination {
@@ -268,7 +268,7 @@ ul.wmuSliderPagination {
     content: ''; 
     position: absolute; 
     width: 10px; 
-    background-color: #ef664d; 
+    background-color: #fff; 
     top:10%; 
     bottom: 0; 
     left: 50%
