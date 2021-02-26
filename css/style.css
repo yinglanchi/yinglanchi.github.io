@@ -268,8 +268,8 @@ ul.wmuSliderPagination {
     content: ''; 
     position: absolute; 
     width: 10px; 
-    background-color: #FFC0CB; 
-    top:0; 
+    background-color: #ffa500; 
+    top:10%; 
     bottom: 0; 
     left: 50%
     /*margin-left: -3px; */
@@ -288,7 +288,7 @@ ul.wmuSliderPagination {
     width: 30px; 
     height: 25px; 
     right: -10px; 
-    background-color:#FF69B4; 
+    background-color:#ef664d; 
     top:15px; 
     border-radius: 50%; 
     z-index: 1; 
