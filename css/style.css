@@ -850,19 +850,19 @@ padding-bottom: 2em;
 			.wmuSliderNext {
 				top: 195px;
 			}
-			.services-header h3 {
+			.courses-header h3 {
 				font-size: 2.2em;
 			}
-			.services-header {
+			.courses-header {
 				width: 100%;
 			}
-			.services-header p {
+			.courses-header p {
 				font-size: 1em;
 			}
-			.services-grid h4 {
-			   font-size: 1.2em;
+			.courses-grid h4 {
+			   font-size: 1.5em;
 			}
-			.services-grid p {
+			.courses-grid p {
 			   font-size: 1em;
 			}
 			.works-header h3 {
@@ -948,24 +948,24 @@ padding-bottom: 2em;
 			.banner-wrap {
 				padding-top: 16em;
 			}
-			.services-section {
+			.courses-section {
 				padding: 2em 0;
 			}
-			.services-header h3 {
+			.courses-header h3 {
 				font-size: 2em;
 			}
-			.services-grid {
+			.courses-grid {
 				padding: 20px 0;
 				float: left;
-				width: 33.3%;
+				width: 50%;
 			}
-			.services-grid img {
+			.courses-grid img {
 				width: 35%;
 			}
-			.services-grid {
+			.courses-grid {
 				padding: 20px 0;
 			}
-			.services-header p {
+			.courses-header p {
 				padding: 15px 0;
 				
 			}
