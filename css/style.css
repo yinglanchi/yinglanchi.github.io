@@ -656,18 +656,6 @@ h2.resp-accordion {
 .about-sectiongrids{
 	padding: 40px 0px;
 }
-.polls {
-	padding: 10px 0;
-}
-.poll-desc {
-	float: left;
-}
-.poll-desc h4{
-	font-size: 17px;
-	color: #2a404e;
-	font-weight:bold;
-	text-transform: uppercase;
-}
 .percentage {
 	float: right;
 	margin-right: 26%
