@@ -49,12 +49,9 @@ body{
 .header-top {
 	padding-top: 3em;
 }
-.logo{
-	float:left;
-	
-}
+
 .top-menu{
-	float:right;
+	float:left;
 }
 .top-menu ul li{
 	display: inline-block;
