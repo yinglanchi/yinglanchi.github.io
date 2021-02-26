@@ -288,7 +288,7 @@ ul.wmuSliderPagination {
     width: 30px; 
     height: 25px; 
     right: -10px; 
-    background-color:#ef664d; 
+    background-color:#ffa500; 
     top:15px; 
     border-radius: 50%; 
     z-index: 1; 
@@ -307,7 +307,7 @@ ul.wmuSliderPagination {
 /*content box colour padding and radius for circular corner*/
 .event-content{ 
     padding: 15px 15px 15px 17px; 
-    background-color: #ef664d; 
+    background-color: #ffa500; 
     border-radius: 4px; 
 } 
 
