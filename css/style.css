@@ -1,7 +1,3 @@
-/*--
-Author: Template Stock
-Author URL: http://templatestock.co
---*/
 body a{
     transition:0.5s all;
 	-webkit-transition:0.5s all;
@@ -277,7 +273,7 @@ ul.wmuSliderPagination {
     top:0; 
     bottom: 0; 
     left: 50%; 
-    margin-left: -3px; 
+    /*margin-left: -3px; */
 } 
 /*Adjusting box of all content*/
 .text-wrapper{ 
