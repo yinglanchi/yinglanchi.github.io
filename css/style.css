@@ -307,13 +307,13 @@ ul.wmuSliderPagination {
 /*content box colour padding and radius for circular corner*/
 .event-content{ 
     padding: 15px 15px 15px 17px; 
-    background-color: #FFC0CB; 
+    background-color: #ef664d; 
     border-radius: 4px; 
 } 
 
 /*setting text property of event content*/
 .event-content p{ 
-    color: #616161; 
+    color: #000000; 
     font-weight: 300; 
     font-size: 18px; 
     margin-top: 2px; 
