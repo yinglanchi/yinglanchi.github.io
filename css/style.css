@@ -249,7 +249,7 @@ ul.wmuSliderPagination {
 	font-family: 'Arvo', serif;
 	text-transform: uppercase;
 	font-weight: 400;
-	color: #ef664d;
+	color: #ffa500;
 }
 .experience-header h3 span {
 	color: #fefefe;
@@ -268,7 +268,7 @@ ul.wmuSliderPagination {
     content: ''; 
     position: absolute; 
     width: 10px; 
-    background-color: #ffa500; 
+    background-color: #ef664d; 
     top:10%; 
     bottom: 0; 
     left: 50%
