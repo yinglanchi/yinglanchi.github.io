@@ -956,7 +956,7 @@ padding-bottom: 2em;
 			}
 			.courses-grid {
 				padding: 20px 0;
-				float: left;
+				float: center;
 				width: 50%;
 			}
 			.courses-grid img {
