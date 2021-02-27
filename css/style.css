@@ -706,6 +706,7 @@ color: #fefefe;
 .life-column img {
   margin-top: 8px;
   vertical-align: middle;
+  height: 80%;
   width: 80%;
 }
 
