@@ -232,7 +232,7 @@ ul.wmuSliderPagination {
 	padding: 25px 0;
 }
 .courses-column{
-	text-align: center;
+	text-align: left;
 }
 .courses-column h4 {
 	font-size: 1.3em;
@@ -245,6 +245,12 @@ ul.wmuSliderPagination {
 	font-size: 15px;
 	color: #7e7e7e;
 	padding: 0 22px;
+}
+.courses-column ul li{
+	text-align: left;
+	font-size: 10px;
+	line-height: 1.6em;
+	
 }
 .arrow1 {
 	padding-top: 30px;
@@ -685,8 +691,8 @@ color: #fefefe;
 	padding: 25px 0;
 }
 .social-icon {
-text-align: center;
-padding:30px 0;
+	text-align: center;
+	padding:30px 0;
 }
 .social-icon i{
 	width:40px;
