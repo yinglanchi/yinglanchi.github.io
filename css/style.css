@@ -608,6 +608,8 @@ h2.resp-accordion {
 .arrow {
 	padding-top: 15px;
 	text-align: center;
+	width: 15px;
+	height:15px;
 }
 .about-section {
 	padding:3em 0;
