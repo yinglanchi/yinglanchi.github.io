@@ -665,26 +665,26 @@ h2.resp-accordion {
 	display: block;
 	background-color: #ef664d;
 }
-.footer-section {
+.personal-life-section {
 	padding: 40px 0px;
 	background: #2e3e4e;
 }
-.contact-header {
+.personal-life-header {
 	text-align: center;
 	width: 85%;
 	margin: 0 auto;
 }
-.contact-header h3 {
+.personal-life-header h3 {
 	font-size: 2.5em;
 	font-family: 'Arvo', serif;
 	text-transform: uppercase;
 	font-weight: 400;
 	color: #ef664d;
 }
-.contact-header h3 span {
+.personal-life-header h3 span {
 color: #fefefe;
 }
-.contact-header p {
+.personal-life-header p {
 	line-height: 1.5em;
 	font-size: 15px;
 	color: #fefefe;
@@ -916,10 +916,10 @@ padding-bottom: 2em;
 			.contact {
 				padding-bottom: 3em;
 			}
-			.footer-bottom p {
+			.personal-life-bottom p {
 				font-size: 16px;
 			}
-			.footer-bottom p a {
+			.personal-life-bottom p a {
 				font-size: 16px;	
             }
            	}
@@ -1007,13 +1007,13 @@ padding-bottom: 2em;
 			.arrow1 {
 				padding-top: 0px;
 			}
-			.contact-section {
+			.personal-life-section {
 				padding: 2em 0;
 			}
-			.contact-header h3 {
+			.personal-life-header h3 {
 				font-size: 2em;
 			}
-			.contact-header p {
+			.personal-life-header p {
 				padding: 15px 0;
 			}
 			.social-icon {
@@ -1033,7 +1033,7 @@ padding-bottom: 2em;
 			.contact {
 				padding-bottom: 2em;
 			}
-			.footer-bottom {
+			.personal-life-bottom {
 				padding-top: 35px;
 			}
 			.grid_box a:hover .zoom-icon {
@@ -1205,13 +1205,13 @@ padding-bottom: 2em;
 		.contact {
 			padding-bottom: 1.5em;
 		}
-		.footer-bottom p   {
+		.personal-life-bottom p   {
 		font-size: 14px;
 		}
 		.footer-bottom p a   {
 		font-size: 14px;
 		}
-		.footer-bottom {
+		.personal-life-bottom {
 			padding-top: 20px;
 		}
 		.resp-tab-item {
@@ -1333,15 +1333,15 @@ padding-bottom: 2em;
 		.percentage p {
 			font-size: 14px;
 		}
-		.contact-header h3 {
+		.personal-life-header h3 {
 			font-size: 1.4em;
 		}
-		.contact-header p {
+		.personal-life-header p {
 			
 			height: 66px;
 			overflow: hidden;
 		}
-		.contact-header p {
+		.personal-life-header p {
 			padding: 10px 0;
 		}
 		.contactgrid input[type="text"] {
@@ -1350,7 +1350,7 @@ padding-bottom: 2em;
 		.contact {
 			padding-bottom: 1em;
 		}
-		.footer-bottom {
+		.personal-life-bottom {
 			padding-top: 15px;
 		}
 		.img-top {
