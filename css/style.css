@@ -231,17 +231,24 @@ ul.wmuSliderPagination {
 	color: #7e7e7e;
 	padding: 25px 0;
 }
-.courses-sectiongrids {
+.courses-column {
+  float: left;
 	text-align: center;
+  width: 50%;
 }
-.courses-grid h4 {
+.courses-row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.courses-row h4 {
 	font-size: 1.3em;
 	font-weight: bold;
 	padding: 15px 0;
 	color: #2a404e;
 	text-transform: uppercase;
 }
-.courses-grid p {
+.courses-row p {
 	font-size: 15px;
 	color: #7e7e7e;
 	padding: 0 22px;
@@ -956,11 +963,8 @@ padding-bottom: 2em;
 			}
 			.courses-grid {
 				padding: 20px 0;
-				float: center;
+				float: left;
 				width: 50%;
-			}
-			.courses-grid img {
-				width: 35%;
 			}
 			.courses-grid {
 				padding: 20px 0;
@@ -1136,9 +1140,6 @@ padding-bottom: 2em;
 		}
 		.courses-header p {
 			font-size: 0.9em;
-		}
-		.courses-grid img {
-			width: 20%;
 		}
 		.courses-grid {
 			padding: 16px 0;
@@ -1415,9 +1416,6 @@ padding-bottom: 2em;
 		}
 		.courses-header p {
 			padding: 10px 0;
-		}
-		.courses-grid img {
-			width: 25%;
 		}
 		.courses-grid {
 			padding: 10px 0;
