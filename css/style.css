@@ -1128,23 +1128,23 @@ padding-bottom: 2em;
 		.wmuSliderPagination {
 			right: 44%;
 		}
-		.services-section {
+		.courses-section {
 			padding: 1.5em 0;
 		}
-		.services-header h3 {
+		.courses-header h3 {
 			font-size: 1.5em;
 		}
-		.services-header p {
+		.courses-header p {
 			font-size: 0.9em;
 		}
-		.services-grid img {
+		.courses-grid img {
 			width: 20%;
 		}
-		.services-grid {
+		.courses-grid {
 			padding: 16px 0;
 			width: 100%;
 		}
-		.services-grid p {
+		.courses-grid p {
 			font-size: 0.9em;
 			width: 55%;
 			margin: 0 auto;
@@ -1278,19 +1278,19 @@ padding-bottom: 2em;
 			width: 12px;
 			height: 12px;
 		}
-		.services-header h3 {
+		.courses-header h3 {
 			font-size: 1.4em;
 		}
-		.services-header p {
+		.courses-header p {
 			
 			height: 66px;
 			overflow: hidden;
 		}
-		.services-grid h4 {
+		.courses-grid h4 {
 			font-size: 1em;
 			padding: 10px 0;
 		}
-		.services-grid p {
+		.courses-grid p {
 			width: 70%;
 		}
 		.works-header h3 {
@@ -1410,20 +1410,20 @@ padding-bottom: 2em;
 			background-position: -299px -2px;
 			right: 0.5em;
 		}
-		.services-section {
+		.courses-section {
 			padding: 1em 0;
 		}
-		.services-header p {
+		.courses-header p {
 			padding: 10px 0;
 		}
-		.services-grid img {
+		.courses-grid img {
 			width: 25%;
 		}
-		.services-grid {
+		.courses-grid {
 			padding: 10px 0;
 		}
-		.services-grid p {
-            width: 96%;
+		.courses-grid p {
+            		width: 96%;
 			margin: 0 auto;
 			padding: 0 0px;
 		}
