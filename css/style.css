@@ -231,16 +231,6 @@ ul.wmuSliderPagination {
 	color: #7e7e7e;
 	padding: 25px 0;
 }
-.courses-column {
-  float: left;
-	text-align: center;
-  width: 50%;
-}
-.courses-row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
 .courses-row h4 {
 	font-size: 1.3em;
 	font-weight: bold;
