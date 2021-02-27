@@ -704,6 +704,7 @@ color: #fefefe;
 }
 
 .life-column img {
+  margin-left: 40px;
   margin-top: 8px;
   vertical-align: middle;
   height: 80%;
